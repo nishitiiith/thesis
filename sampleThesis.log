@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.27)  28 JUL 2017 22:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.27)  29 JUL 2017 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -472,7 +472,7 @@ Package epstopdf Info: Source file: <figures/iiit.eps>
 (epstopdf)             \includegraphics on input line 25.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/iiit-eps-converted-to.pdf, id=80, 79.29625pt x 58.2175pt>
+<figures/iiit-eps-converted-to.pdf, id=72, 79.29625pt x 58.2175pt>
 File: figures/iiit-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/iiit-eps-converted-to.pdf>
@@ -540,41 +540,40 @@ m-age, depth map and edge groundtruth.
 {\it Chapter} 1.
 (./introduction.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
- <images/Im1-RGB.png, id=214, 451.6875pt x 341.275pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+ <images/Im1-RGB.png, id=204, 451.6875pt x 341.275pt>
 File: images/Im1-RGB.png Graphic file (type png)
 
 <use images/Im1-RGB.png>
-Package pdftex.def Info: images/Im1-RGB.png used on input line 16.
+Package pdftex.def Info: images/Im1-RGB.png used on input line 15.
 (pdftex.def)             Requested size: 144.5433pt x 109.21022pt.
 
-<images/Im1-Labelled-1.pdf, id=216, 325.215pt x 245.91875pt>
+<images/Im1-Labelled-1.pdf, id=206, 325.215pt x 245.91875pt>
 File: images/Im1-Labelled-1.pdf Graphic file (type pdf)
 
 <use images/Im1-Labelled-1.pdf>
-Package pdftex.def Info: images/Im1-Labelled-1.pdf used on input line 17.
+Package pdftex.def Info: images/Im1-Labelled-1.pdf used on input line 16.
 (pdftex.def)             Requested size: 144.5433pt x 109.30028pt.
 
-<images/Im1-Depth.png, id=217, 451.6875pt x 341.275pt>
+<images/Im1-Depth.png, id=207, 451.6875pt x 341.275pt>
 File: images/Im1-Depth.png Graphic file (type png)
 
 <use images/Im1-Depth.png>
-Package pdftex.def Info: images/Im1-Depth.png used on input line 18.
+Package pdftex.def Info: images/Im1-Depth.png used on input line 17.
 (pdftex.def)             Requested size: 144.5433pt x 109.21022pt.
- [1
 
-] [2 <./images/Im1-RGB.png> <./images/Im1-Labelled-1.pdf> <./images/Im1-Depth.p
-ng>]
 
-LaTeX Warning: Citation `3dFromSingleView' on page 3 undefined on input line 91
+LaTeX Warning: Citation `3dFromSingleView' on page 1 undefined on input line 39
 .
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 98.
+[1
 
-LaTeX Warning: Citation `Authors06' on page 3 undefined on input line 108.
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [3]
+ [2 <./images/Im1-RGB.png> <./images/Im1-Labelled-1.pdf> <./images/Im1-Depth.pn
+g>])
+[3]
 {\it Chapter} 2.
 (./relatedWork.tex) [4
 
@@ -595,7 +594,7 @@ File: images/Im1-Depth.png Graphic file (type png)
 Package pdftex.def Info: images/Im1-Depth.png used on input line 32.
 (pdftex.def)             Requested size: 144.5433pt x 109.21022pt.
  (./kinectMethod.tex
-<pipeline_abstract.pdf, id=296, 1094.0875pt x 426.59375pt>
+<pipeline_abstract.pdf, id=287, 1094.0875pt x 426.59375pt>
 File: pipeline_abstract.pdf Graphic file (type pdf)
 
 <use pipeline_abstract.pdf>
@@ -603,29 +602,32 @@ Package pdftex.def Info: pipeline_abstract.pdf used on input line 16.
 (pdftex.def)             Requested size: 451.6875pt x 176.1153pt.
  [5
 
-] [6 <./pipeline_abstract.pdf>]
-<images/EdgeLinks.pdf, id=327, 303.1325pt x 263.98625pt>
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
+ [6 <./pipeline_abstract.pdf>]
+<images/EdgeLinks.pdf, id=318, 303.1325pt x 263.98625pt>
 File: images/EdgeLinks.pdf Graphic file (type pdf)
 
 <use images/EdgeLinks.pdf>
 Package pdftex.def Info: images/EdgeLinks.pdf used on input line 48.
 (pdftex.def)             Requested size: 121.95755pt x 106.20892pt.
 
-<images/junctionGraph.pdf, id=328, 597.23125pt x 597.23125pt>
+<images/junctionGraph.pdf, id=319, 597.23125pt x 597.23125pt>
 File: images/junctionGraph.pdf Graphic file (type pdf)
 
 <use images/junctionGraph.pdf>
 Package pdftex.def Info: images/junctionGraph.pdf used on input line 49.
 (pdftex.def)             Requested size: 121.95755pt x 121.9502pt.
 
-<images/contourGraph.pdf, id=329, 597.23125pt x 597.23125pt>
+<images/contourGraph.pdf, id=320, 597.23125pt x 597.23125pt>
 File: images/contourGraph.pdf Graphic file (type pdf)
 
 <use images/contourGraph.pdf>
 Package pdftex.def Info: images/contourGraph.pdf used on input line 50.
 (pdftex.def)             Requested size: 121.95755pt x 121.9502pt.
 
-<images/edgePixels.pdf, id=330, 655.44875pt x 454.69875pt>
+<images/edgePixels.pdf, id=321, 655.44875pt x 454.69875pt>
 File: images/edgePixels.pdf Graphic file (type pdf)
 
 <use images/edgePixels.pdf>
@@ -645,87 +647,87 @@ ion: multiple pdfs with page group included in a single page
 pdfTeX warning: /usr/bin/pdflatex (file ./images/contourGraph.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
 >] [8 <./images/edgePixels.pdf>]) [9] (./kinectExperiments.tex
-<results/274.jpg, id=424, 562.1pt x 426.59375pt>
+<results/274.jpg, id=415, 562.1pt x 426.59375pt>
 File: results/274.jpg Graphic file (type jpg)
  <use results/274.jpg>
 Package pdftex.def Info: results/274.jpg used on input line 14.
 (pdftex.def)             Requested size: 112.92188pt x 85.69476pt.
 
-<results/274_depth.jpg, id=425, 562.1pt x 426.59375pt>
+<results/274_depth.jpg, id=416, 562.1pt x 426.59375pt>
 File: results/274_depth.jpg Graphic file (type jpg)
 
 <use results/274_depth.jpg>
 Package pdftex.def Info: results/274_depth.jpg used on input line 15.
 (pdftex.def)             Requested size: 112.92188pt x 85.69476pt.
 
-<results/274_gt.jpg, id=426, 562.1pt x 426.59375pt>
+<results/274_gt.jpg, id=417, 562.1pt x 426.59375pt>
 File: results/274_gt.jpg Graphic file (type jpg)
  <use results/274_gt.jpg>
 Package pdftex.def Info: results/274_gt.jpg used on input line 16.
 (pdftex.def)             Requested size: 112.92188pt x 85.69476pt.
 
 [10 <./results/274.jpg> <./results/274_depth.jpg> <./results/274_gt.jpg>]
-[11] <results/557_GT.jpg, id=465, 562.1pt x 426.59375pt>
+[11] <results/557_GT.jpg, id=456, 562.1pt x 426.59375pt>
 File: results/557_GT.jpg Graphic file (type jpg)
 
 <use results/557_GT.jpg>
 Package pdftex.def Info: results/557_GT.jpg used on input line 151.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/637_GT.jpg, id=466, 562.1pt x 426.59375pt>
+ <results/637_GT.jpg, id=457, 562.1pt x 426.59375pt>
 File: results/637_GT.jpg Graphic file (type jpg)
 
 <use results/637_GT.jpg>
 Package pdftex.def Info: results/637_GT.jpg used on input line 152.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/734_GT.jpg, id=467, 562.1pt x 426.59375pt>
+ <results/734_GT.jpg, id=458, 562.1pt x 426.59375pt>
 File: results/734_GT.jpg Graphic file (type jpg)
 
 <use results/734_GT.jpg>
 Package pdftex.def Info: results/734_GT.jpg used on input line 153.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/941_GT.jpg, id=468, 562.1pt x 426.59375pt>
+ <results/941_GT.jpg, id=459, 562.1pt x 426.59375pt>
 File: results/941_GT.jpg Graphic file (type jpg)
 
 <use results/941_GT.jpg>
 Package pdftex.def Info: results/941_GT.jpg used on input line 154.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/934_GT.jpg, id=469, 562.1pt x 426.59375pt>
+ <results/934_GT.jpg, id=460, 562.1pt x 426.59375pt>
 File: results/934_GT.jpg Graphic file (type jpg)
 
 <use results/934_GT.jpg>
 Package pdftex.def Info: results/934_GT.jpg used on input line 155.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/557_MRF.jpg, id=470, 562.1pt x 426.59375pt>
+ <results/557_MRF.jpg, id=461, 562.1pt x 426.59375pt>
 File: results/557_MRF.jpg Graphic file (type jpg)
 
 <use results/557_MRF.jpg>
 Package pdftex.def Info: results/557_MRF.jpg used on input line 157.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/637_MRF.jpg, id=471, 562.1pt x 426.59375pt>
+ <results/637_MRF.jpg, id=462, 562.1pt x 426.59375pt>
 File: results/637_MRF.jpg Graphic file (type jpg)
 
 <use results/637_MRF.jpg>
 Package pdftex.def Info: results/637_MRF.jpg used on input line 158.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/734_MRF.jpg, id=472, 562.1pt x 426.59375pt>
+ <results/734_MRF.jpg, id=463, 562.1pt x 426.59375pt>
 File: results/734_MRF.jpg Graphic file (type jpg)
 
 <use results/734_MRF.jpg>
 Package pdftex.def Info: results/734_MRF.jpg used on input line 159.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/941_MRF.jpg, id=473, 562.1pt x 426.59375pt>
+ <results/941_MRF.jpg, id=464, 562.1pt x 426.59375pt>
 File: results/941_MRF.jpg Graphic file (type jpg)
 
 <use results/941_MRF.jpg>
 Package pdftex.def Info: results/941_MRF.jpg used on input line 160.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/934_MRF.jpg, id=474, 562.1pt x 426.59375pt>
+ <results/934_MRF.jpg, id=465, 562.1pt x 426.59375pt>
 File: results/934_MRF.jpg Graphic file (type jpg)
 
 <use results/934_MRF.jpg>
 Package pdftex.def Info: results/934_MRF.jpg used on input line 161.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/143_gt.jpg, id=475, 562.1pt x 426.59375pt>
+ <results/143_gt.jpg, id=466, 562.1pt x 426.59375pt>
 File: results/143_gt.jpg Graphic file (type jpg)
 
 <use results/143_gt.jpg>
@@ -736,41 +738,41 @@ File: results/274_gt.jpg Graphic file (type jpg)
 Package pdftex.def Info: results/274_gt.jpg used on input line 174.
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<supplementary/364_gt.jpg, id=476, 562.1pt x 426.59375pt>
+<supplementary/364_gt.jpg, id=467, 562.1pt x 426.59375pt>
 File: supplementary/364_gt.jpg Graphic file (type jpg)
 
 <use supplementary/364_gt.jpg>
 Package pdftex.def Info: supplementary/364_gt.jpg used on input line 175.
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<results/214_gt.jpg, id=477, 562.1pt x 426.59375pt>
+<results/214_gt.jpg, id=468, 562.1pt x 426.59375pt>
 File: results/214_gt.jpg Graphic file (type jpg)
  <use results/214_gt.jpg>
 Package pdftex.def Info: results/214_gt.jpg used on input line 176.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/90_gt.jpg, id=478, 562.1pt x 426.59375pt>
+<supplementary/90_gt.jpg, id=469, 562.1pt x 426.59375pt>
 File: supplementary/90_gt.jpg Graphic file (type jpg)
 
 <use supplementary/90_gt.jpg>
 Package pdftex.def Info: supplementary/90_gt.jpg used on input line 177.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/143_graphcut.jpg, id=479, 562.1pt x 426.59375pt>
+<results/143_graphcut.jpg, id=470, 562.1pt x 426.59375pt>
 File: results/143_graphcut.jpg Graphic file (type jpg)
 
 <use results/143_graphcut.jpg>
 Package pdftex.def Info: results/143_graphcut.jpg used on input line 178.
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<results/274_graphcut.jpg, id=480, 562.1pt x 426.59375pt>
+<results/274_graphcut.jpg, id=471, 562.1pt x 426.59375pt>
 File: results/274_graphcut.jpg Graphic file (type jpg)
 
 <use results/274_graphcut.jpg>
 Package pdftex.def Info: results/274_graphcut.jpg used on input line 179.
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<supplementary/364_graphcut.jpg, id=481, 562.1pt x 426.59375pt>
+<supplementary/364_graphcut.jpg, id=472, 562.1pt x 426.59375pt>
 File: supplementary/364_graphcut.jpg Graphic file (type jpg)
 
 <use supplementary/364_graphcut.jpg>
@@ -778,186 +780,186 @@ Package pdftex.def Info: supplementary/364_graphcut.jpg used on input line 180.
 
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<results/214_graphcut.jpg, id=482, 562.1pt x 426.59375pt>
+<results/214_graphcut.jpg, id=473, 562.1pt x 426.59375pt>
 File: results/214_graphcut.jpg Graphic file (type jpg)
 
 <use results/214_graphcut.jpg>
 Package pdftex.def Info: results/214_graphcut.jpg used on input line 181.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/90_graphcut.jpg, id=483, 562.1pt x 426.59375pt>
+<supplementary/90_graphcut.jpg, id=474, 562.1pt x 426.59375pt>
 File: supplementary/90_graphcut.jpg Graphic file (type jpg)
 
 <use supplementary/90_graphcut.jpg>
 Package pdftex.def Info: supplementary/90_graphcut.jpg used on input line 182.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/Gupta/143.jpg, id=484, 562.1pt x 426.59375pt>
+<results/Gupta/143.jpg, id=475, 562.1pt x 426.59375pt>
 File: results/Gupta/143.jpg Graphic file (type jpg)
 
 <use results/Gupta/143.jpg>
 Package pdftex.def Info: results/Gupta/143.jpg used on input line 184.
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<results/Gupta/274.jpg, id=485, 562.1pt x 426.59375pt>
+<results/Gupta/274.jpg, id=476, 562.1pt x 426.59375pt>
 File: results/Gupta/274.jpg Graphic file (type jpg)
 
 <use results/Gupta/274.jpg>
 Package pdftex.def Info: results/Gupta/274.jpg used on input line 185.
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<results/Gupta/364.jpg, id=486, 562.1pt x 426.59375pt>
+<results/Gupta/364.jpg, id=477, 562.1pt x 426.59375pt>
 File: results/Gupta/364.jpg Graphic file (type jpg)
 
 <use results/Gupta/364.jpg>
 Package pdftex.def Info: results/Gupta/364.jpg used on input line 186.
 (pdftex.def)             Requested size: 72.27165pt x 54.84726pt.
 
-<results/Gupta/214.jpg, id=487, 562.1pt x 426.59375pt>
+<results/Gupta/214.jpg, id=478, 562.1pt x 426.59375pt>
 File: results/Gupta/214.jpg Graphic file (type jpg)
 
 <use results/Gupta/214.jpg>
 Package pdftex.def Info: results/Gupta/214.jpg used on input line 187.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/Gupta/90.jpg, id=488, 562.1pt x 426.59375pt>
+<results/Gupta/90.jpg, id=479, 562.1pt x 426.59375pt>
 File: results/Gupta/90.jpg Graphic file (type jpg)
 
 <use results/Gupta/90.jpg>
 Package pdftex.def Info: results/Gupta/90.jpg used on input line 188.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
- <results/387_GT.jpg, id=491, 562.1pt x 426.59375pt>
+ <results/387_GT.jpg, id=482, 562.1pt x 426.59375pt>
 File: results/387_GT.jpg Graphic file (type jpg)
 
 <use results/387_GT.jpg>
 Package pdftex.def Info: results/387_GT.jpg used on input line 198.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/248_GT.jpg, id=492, 562.1pt x 426.59375pt>
+ <results/248_GT.jpg, id=483, 562.1pt x 426.59375pt>
 File: results/248_GT.jpg Graphic file (type jpg)
 
 <use results/248_GT.jpg>
 Package pdftex.def Info: results/248_GT.jpg used on input line 199.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/228_GT.jpg, id=493, 562.1pt x 426.59375pt>
+ <results/228_GT.jpg, id=484, 562.1pt x 426.59375pt>
 File: results/228_GT.jpg Graphic file (type jpg)
 
 <use results/228_GT.jpg>
 Package pdftex.def Info: results/228_GT.jpg used on input line 201.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/410_GT.jpg, id=494, 562.1pt x 426.59375pt>
+ <results/410_GT.jpg, id=485, 562.1pt x 426.59375pt>
 File: results/410_GT.jpg Graphic file (type jpg)
 
 <use results/410_GT.jpg>
 Package pdftex.def Info: results/410_GT.jpg used on input line 202.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/464_GT.jpg, id=495, 562.1pt x 426.59375pt>
+ <results/464_GT.jpg, id=486, 562.1pt x 426.59375pt>
 File: results/464_GT.jpg Graphic file (type jpg)
 
 <use results/464_GT.jpg>
 Package pdftex.def Info: results/464_GT.jpg used on input line 204.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/387_MRF.jpg, id=496, 562.1pt x 426.59375pt>
+ <results/387_MRF.jpg, id=487, 562.1pt x 426.59375pt>
 File: results/387_MRF.jpg Graphic file (type jpg)
 
 <use results/387_MRF.jpg>
 Package pdftex.def Info: results/387_MRF.jpg used on input line 206.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/248_MRF.jpg, id=497, 562.1pt x 426.59375pt>
+ <results/248_MRF.jpg, id=488, 562.1pt x 426.59375pt>
 File: results/248_MRF.jpg Graphic file (type jpg)
 
 <use results/248_MRF.jpg>
 Package pdftex.def Info: results/248_MRF.jpg used on input line 207.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/228_MRF.jpg, id=498, 562.1pt x 426.59375pt>
+ <results/228_MRF.jpg, id=489, 562.1pt x 426.59375pt>
 File: results/228_MRF.jpg Graphic file (type jpg)
 
 <use results/228_MRF.jpg>
 Package pdftex.def Info: results/228_MRF.jpg used on input line 209.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/410_MRF.jpg, id=499, 562.1pt x 426.59375pt>
+ <results/410_MRF.jpg, id=490, 562.1pt x 426.59375pt>
 File: results/410_MRF.jpg Graphic file (type jpg)
 
 <use results/410_MRF.jpg>
 Package pdftex.def Info: results/410_MRF.jpg used on input line 210.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
- <results/464_MRF.jpg, id=500, 562.1pt x 426.59375pt>
+ <results/464_MRF.jpg, id=491, 562.1pt x 426.59375pt>
 File: results/464_MRF.jpg Graphic file (type jpg)
 
 <use results/464_MRF.jpg>
 Package pdftex.def Info: results/464_MRF.jpg used on input line 212.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
 
-<results/Gupta/387.jpg, id=501, 562.1pt x 426.59375pt>
+<results/Gupta/387.jpg, id=492, 562.1pt x 426.59375pt>
 File: results/Gupta/387.jpg Graphic file (type jpg)
 
 <use results/Gupta/387.jpg>
 Package pdftex.def Info: results/Gupta/387.jpg used on input line 214.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
 
-<results/Gupta/248.jpg, id=502, 562.1pt x 426.59375pt>
+<results/Gupta/248.jpg, id=493, 562.1pt x 426.59375pt>
 File: results/Gupta/248.jpg Graphic file (type jpg)
 
 <use results/Gupta/248.jpg>
 Package pdftex.def Info: results/Gupta/248.jpg used on input line 215.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
 
-<results/Gupta/228.jpg, id=503, 562.1pt x 426.59375pt>
+<results/Gupta/228.jpg, id=494, 562.1pt x 426.59375pt>
 File: results/Gupta/228.jpg Graphic file (type jpg)
 
 <use results/Gupta/228.jpg>
 Package pdftex.def Info: results/Gupta/228.jpg used on input line 217.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
 
-<results/Gupta/410.jpg, id=504, 562.1pt x 426.59375pt>
+<results/Gupta/410.jpg, id=495, 562.1pt x 426.59375pt>
 File: results/Gupta/410.jpg Graphic file (type jpg)
 
 <use results/Gupta/410.jpg>
 Package pdftex.def Info: results/Gupta/410.jpg used on input line 218.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
 
-<results/Gupta/464.jpg, id=505, 562.1pt x 426.59375pt>
+<results/Gupta/464.jpg, id=496, 562.1pt x 426.59375pt>
 File: results/Gupta/464.jpg Graphic file (type jpg)
 
 <use results/Gupta/464.jpg>
 Package pdftex.def Info: results/Gupta/464.jpg used on input line 220.
 (pdftex.def)             Requested size: 85.82172pt x 65.13193pt.
 
-<supplementary/131_gt.jpg, id=506, 562.1pt x 426.59375pt>
+<supplementary/131_gt.jpg, id=497, 562.1pt x 426.59375pt>
 File: supplementary/131_gt.jpg Graphic file (type jpg)
 
 <use supplementary/131_gt.jpg>
 Package pdftex.def Info: supplementary/131_gt.jpg used on input line 222.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/394_gt.jpg, id=507, 562.1pt x 426.59375pt>
+<supplementary/394_gt.jpg, id=498, 562.1pt x 426.59375pt>
 File: supplementary/394_gt.jpg Graphic file (type jpg)
 
 <use supplementary/394_gt.jpg>
 Package pdftex.def Info: supplementary/394_gt.jpg used on input line 223.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/407_gt.jpg, id=508, 562.1pt x 426.59375pt>
+<supplementary/407_gt.jpg, id=499, 562.1pt x 426.59375pt>
 File: supplementary/407_gt.jpg Graphic file (type jpg)
 
 <use supplementary/407_gt.jpg>
 Package pdftex.def Info: supplementary/407_gt.jpg used on input line 224.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/56_gt.jpg, id=509, 562.1pt x 426.59375pt>
+<supplementary/56_gt.jpg, id=500, 562.1pt x 426.59375pt>
 File: supplementary/56_gt.jpg Graphic file (type jpg)
 
 <use supplementary/56_gt.jpg>
 Package pdftex.def Info: supplementary/56_gt.jpg used on input line 225.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/432_gt.jpg, id=510, 562.1pt x 426.59375pt>
+<supplementary/432_gt.jpg, id=501, 562.1pt x 426.59375pt>
 File: supplementary/432_gt.jpg Graphic file (type jpg)
 
 <use supplementary/432_gt.jpg>
 Package pdftex.def Info: supplementary/432_gt.jpg used on input line 226.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/131_graphcut.jpg, id=511, 562.1pt x 426.59375pt>
+<supplementary/131_graphcut.jpg, id=502, 562.1pt x 426.59375pt>
 File: supplementary/131_graphcut.jpg Graphic file (type jpg)
 
 <use supplementary/131_graphcut.jpg>
@@ -965,7 +967,7 @@ Package pdftex.def Info: supplementary/131_graphcut.jpg used on input line 227.
 
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/394_graphcut.jpg, id=512, 562.1pt x 426.59375pt>
+<supplementary/394_graphcut.jpg, id=503, 562.1pt x 426.59375pt>
 File: supplementary/394_graphcut.jpg Graphic file (type jpg)
 
 <use supplementary/394_graphcut.jpg>
@@ -973,7 +975,7 @@ Package pdftex.def Info: supplementary/394_graphcut.jpg used on input line 228.
 
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/407_graphcut.jpg, id=513, 562.1pt x 426.59375pt>
+<supplementary/407_graphcut.jpg, id=504, 562.1pt x 426.59375pt>
 File: supplementary/407_graphcut.jpg Graphic file (type jpg)
 
 <use supplementary/407_graphcut.jpg>
@@ -981,14 +983,14 @@ Package pdftex.def Info: supplementary/407_graphcut.jpg used on input line 229.
 
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/56_graphcut.jpg, id=514, 562.1pt x 426.59375pt>
+<supplementary/56_graphcut.jpg, id=505, 562.1pt x 426.59375pt>
 File: supplementary/56_graphcut.jpg Graphic file (type jpg)
 
 <use supplementary/56_graphcut.jpg>
 Package pdftex.def Info: supplementary/56_graphcut.jpg used on input line 230.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<supplementary/432_graphcut.jpg, id=515, 562.1pt x 426.59375pt>
+<supplementary/432_graphcut.jpg, id=506, 562.1pt x 426.59375pt>
 File: supplementary/432_graphcut.jpg Graphic file (type jpg)
 
 <use supplementary/432_graphcut.jpg>
@@ -996,35 +998,35 @@ Package pdftex.def Info: supplementary/432_graphcut.jpg used on input line 231.
 
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/Gupta/131.jpg, id=516, 562.1pt x 426.59375pt>
+<results/Gupta/131.jpg, id=507, 562.1pt x 426.59375pt>
 File: results/Gupta/131.jpg Graphic file (type jpg)
 
 <use results/Gupta/131.jpg>
 Package pdftex.def Info: results/Gupta/131.jpg used on input line 233.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/Gupta/394.jpg, id=517, 562.1pt x 426.59375pt>
+<results/Gupta/394.jpg, id=508, 562.1pt x 426.59375pt>
 File: results/Gupta/394.jpg Graphic file (type jpg)
 
 <use results/Gupta/394.jpg>
 Package pdftex.def Info: results/Gupta/394.jpg used on input line 234.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/Gupta/407.jpg, id=518, 562.1pt x 426.59375pt>
+<results/Gupta/407.jpg, id=509, 562.1pt x 426.59375pt>
 File: results/Gupta/407.jpg Graphic file (type jpg)
 
 <use results/Gupta/407.jpg>
 Package pdftex.def Info: results/Gupta/407.jpg used on input line 235.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/Gupta/56.jpg, id=519, 562.1pt x 426.59375pt>
+<results/Gupta/56.jpg, id=510, 562.1pt x 426.59375pt>
 File: results/Gupta/56.jpg Graphic file (type jpg)
 
 <use results/Gupta/56.jpg>
 Package pdftex.def Info: results/Gupta/56.jpg used on input line 236.
 (pdftex.def)             Requested size: 76.78604pt x 58.27113pt.
 
-<results/Gupta/432.jpg, id=520, 562.1pt x 426.59375pt>
+<results/Gupta/432.jpg, id=511, 562.1pt x 426.59375pt>
 File: results/Gupta/432.jpg Graphic file (type jpg)
 
 <use results/Gupta/432.jpg>
@@ -1244,7 +1246,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
 Package rerunfilecheck Info: File `sampleThesis.out' has not changed.
-(rerunfilecheck)             Checksum: 4F6241673FFE5C72E55440D60F70C760;1186.
+(rerunfilecheck)             Checksum: CDBAB33637AD084357DFD58AA38C24A2;1051.
 
 
 LaTeX Warning: There were undefined references.
@@ -1255,10 +1257,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 128.
  ) 
 Here is how much of TeX's memory you used:
- 7806 strings out of 493304
- 113387 string characters out of 6139871
- 215899 words of memory out of 5000000
- 10870 multiletter control sequences out of 15000+600000
+ 7800 strings out of 493304
+ 113280 string characters out of 6139871
+ 215845 words of memory out of 5000000
+ 10866 multiletter control sequences out of 15000+600000
  28917 words of font info for 62 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  34i,10n,30p,458b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1276,10 +1278,10 @@ are/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on sampleThesis.pdf (28 pages, 3048852 bytes).
+Output written on sampleThesis.pdf (28 pages, 3048346 bytes).
 PDF statistics:
- 668 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 147 named destinations out of 1000 (max. 500000)
- 483 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 659 PDF objects out of 1000 (max. 8388607)
+ 509 compressed objects within 6 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 467 words of extra memory for PDF output out of 10000 (max. 10000000)
 
