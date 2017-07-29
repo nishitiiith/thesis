@@ -1,0 +1,41 @@
+\addvspace {1em}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces \it The edges in (a) are marked in (b) with the color code: red (occluding), green (planar), blue (convex), and yellow (concave). Planar edges are caused by different phenomena as marked. (c) shows the Kinect depth map (note the depth quantization artifacts).}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {RGB Image}}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Edge Types}}}{2}{figure.1.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Depth Map}}}{2}{figure.1.1}
+\addvspace {1em}
+\addvspace {1em}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \it The edges in (a) are marked in (b) with the color code: red (occluding), green (planar), blue (convex), and yellow (concave). Planar edges are caused by different phenomena as marked. (c) shows the Kinect depth map (note the depth quantization artifacts).}}{6}{figure.3.1}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {RGB Image}}}{6}{figure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Edge Types}}}{6}{figure.3.1}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Depth Map}}}{6}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \it This figure summarizes the pipeline of our approach. It shows RGB and depth maps as input (1st image set), with Pb edge detection\nobreakspace {}\cite {martin2004} (2nd image). The classification and MRF outputs are shown in the last two images respectively. Color code: red (occ), green (pln), blue (cvx), yellow (ccv).}}{6}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \it Contour segments are part of edge links that is bounded by two junctions as shown in (a). In (b), we show a graph where edge junctions are nodes and edge links are edges. In (c), we show a graph with contour segments $c_i$ as nodes and junctions lead to edges between nodes.}}{7}{figure.3.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Edge Links}}}{7}{figure.3.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Junction Graph}}}{7}{figure.3.3}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Contour Graph}}}{7}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \it Edge Pixel Neighborhood: The graph potentials of an edge pixel $b$ are defined based on a neighborhood consisting of four pixel on either side of the edge ($p_i$'s and $q_i$'s) on a line perpendicular to the gradient edge direction at $b$.}}{8}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \it Sample image from our dataset showing the RGB image, depth map and edge groundtruth. Colors: red (occ), green (pln), blue (cvx), yellow (ccv).}}{10}{figure.3.5}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {RGB}}}{10}{figure.3.5}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Depth Map}}}{10}{figure.3.5}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Ground truth}}}{10}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \it NYU dataset results : Ground truths (above) and the corresponding results from our approach (below). Color code: red (occ), green (pln), blue (cvx), yellow (ccv).}}{13}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \it Ground truths (above) and the corresponding results from our approach ($2^{nd}$ row) and Gupta {\em et al.}\nobreakspace {}\cite {gupta13Perceptual} ($3^{rd}$ row). Color code: red (occ), green (pln), blue (cvx), yellow (ccv).}}{13}{figure.3.7}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{13}{figure.3.7}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{13}{figure.3.7}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {}}}{13}{figure.3.7}
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {}}}{13}{figure.3.7}
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {}}}{13}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces \it Ground truths (above) and the corresponding results from our approach ($2^{nd}$ row) and Gupta {\em et al.}\nobreakspace {}\cite {gupta13Perceptual} ($3^{rd}$ row). Color code: red (occ), green (pln), blue (cvx), yellow (ccv).}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {}}}{14}{figure.3.8}
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {}}}{14}{figure.3.8}
+\addvspace {1em}
+\addvspace {1em}

@@ -1,0 +1,11 @@
+\section{Conclusion}
+We showed a novel approach for edge labeling where we use the image and depth map from 
+an RGBD sensor (Kinect). We label the Pb edges with occluding, planar, convex and 
+concave labels. We developed a boundary classification algorithm using Random forest. 
+The use of pairwise potentials in an MRF produces only marginal improvement. In real 
+images, the constraints that can be derived from pairwise potentials seem 
+difficult to use due to the presence of noisy and incomplete boundary pixels. Overall, 
+our algorithm provides good labels for most pixels and the performance degrades 
+when there is a significant loss in the depth data. In future, we plan to focus on 
+using only RGB image for obtaining this classification. Code and the dataset for this 
+paper can be found at: \url{https://cvit.iiit.ac.in/projects/semanticBoundaries}

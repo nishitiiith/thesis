@@ -1,0 +1,68 @@
+\noindent
+{\bf Abstract:}
+The problem of labeling the edges present in a single color image as convex, concave, and occluding 
+entities is one of the fundamental problems in computer vision~\cite{mild-sugihara}. It has been shown 
+that this information can contribute to segmentation, reconstruction and recognition problems. Recently, 
+it has been shown that this classification is not straightforward even using RGBD data. This makes us 
+wonder whether this apparent simple cue has more information than a depth map? In this paper, 
+we propose a novel algorithm using random forest for classifying edges into convex, concave and 
+occluding entities. We release a data set with more than 500 RGBD images with pixel-wise ground 
+labels. Our method produces promising results and achieves an F-score of $0.84$ on the data set.
+[We first solve the problem using scanned 3D models. Then we move on to use stereo images which is more difficult.]
+
+\noindent
+{\bf Introduction:}
+Edges in an image often correspond to depth discontinuities at object boundaries (occlusion 
+edges) or normal discontinuities (convex or concave edges). In addition, there could be 
+planar edges that are within planar regions. Figure~\ref{fig:EdgeLabeling} shows an image 
+containing different types of edges. Note that planar edges may result from shadows, reflection, 
+specularities and albedo variations. In classical line labeling with synthetic line 
+drawings, we do not have any planar edges as the purpose of edge labeling has always been to 
+classify the depth edges as occluding, convex and concave. However, in real images planar 
+edges occur more frequently than others. This paper studies the problem of classifying boundaries 
+from RGBD data. In many 3D models obtained using RGBD sensors or multi-view reconstruction techniques, 
+we typically have very noisy 3D point cloud near the boundaries. This is because most stereo 
+reconstruction algorithms and structured light techniques are known to provide noisy reconstruction 
+near the boundaries. This makes the labeling problem challenging. 
+
+\begin{figure}[t]
+\centering
+       \subfigure[RGB Image]{\includegraphics[width=0.32\columnwidth]{images/Im1-RGB.png}} \hfill
+       \subfigure[Edge Types]{\includegraphics[width=0.32\columnwidth]{images/Im1-Labelled-1.pdf}} \hfill
+       \subfigure[Depth Map]{\includegraphics[width=0.32\columnwidth]{images/Im1-Depth.png}} \\
+\caption{\it The edges in (a) are marked in (b) with the color code: red (occluding), green (planar),
+blue (convex), and yellow (concave). Planar edges are caused by different phenomena as marked.
+(c) shows the Kinect depth map (note the depth quantization artifacts).}
+\label{fig:EdgeLabeling}
+\end{figure}
+
+\noindent
+
+
+\section{Method}
+\input{kinectMethod.tex}
+% \noindent
+% {\bf Algorithm:}
+% We use both image and depth cues to infer the labels of edge pixels. We start with a set of 
+% edge pixels obtained from an edge detection algorithm and the goal is to assign one of the 
+% four labels to each of these edge pixels. Each edge pixel is uniquely mapped to one of the 
+% contour segments. Contour segments are sets of linked edge pixels. We formulate the problem 
+% as an optimization on a graph constructed using contour segments. We obtain unary features 
+% using pixel classifier based on Random forest. We design a feature vector with simple 
+% geometric depth comparison features. We use a simple Potts model for pairwise potentials. 
+% The individual steps in the algorithm is shown in Figure~\ref{fig:pipeline}.
+% \begin{figure}[t]
+% \centering
+% \includegraphics[width=1.0\linewidth]{pipeline_abstract.pdf}
+% \caption{\it This figure summarizes the pipeline of our approach. It shows RGB and depth maps 
+% as input (1st image set), with Pb edge detection~\cite{martin2004} (2nd image). The classification and MRF 
+% outputs are shown in the last two images respectively. Color code: red (occ), green (pln), 
+% blue (cvx), yellow (ccv).}
+% \vspace{-2mm}
+% \label{fig:pipeline}
+% \end{figure}
+
+
+[Contour graph, unary potential (classifier), graph cut..]
+\input{kinectExperiments.tex}
+

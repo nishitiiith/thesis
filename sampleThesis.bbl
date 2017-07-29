@@ -1,0 +1,139 @@
+\begin{thebibliography}{10}\setlength{\itemsep}{-1ex}\small
+
+\bibitem{boykov2001fast}
+Y.~Boykov, O.~Veksler, and R.~Zabih.
+\newblock Fast approximate energy minimization via graph cuts.
+\newblock {\em PAMI}, 2001.
+
+\bibitem{canny}
+J.~F. Canny.
+\newblock Finding edges and lines in images.
+\newblock Technical report, MIT, Cambridge, MA, 1983.
+
+\bibitem{Eigen2014}
+D.~Eigen, C.~Puhrsch, and R.~Fergus.
+\newblock Depth map prediction from a single image using a multi-scale deep
+  network.
+\newblock In {\em NIPS}, 2014.
+
+\bibitem{Fouhey14c}
+D.~F. Fouhey, A.~Gupta, and M.~Hebert.
+\newblock Unfolding an indoor origami world.
+\newblock In {\em ECCV}, 2014.
+
+\bibitem{furukawa-PAMI10}
+Y.~Furukawa and J.~Ponce.
+\newblock Accurate, dense, and robust multiview stereopsis.
+\newblock {\em PAMI}, 2010.
+
+\bibitem{gupta13Perceptual}
+S.~Gupta, P.~Arbelaez, and J.~Malik.
+\newblock Perceptual organization and recognition of indoor scenes from rgb-d
+  images.
+\newblock In {\em CVPR}, 2013.
+
+\bibitem{hedau2012}
+V.~Hedau, D.~Hoiem, and D.~Forsyth.
+\newblock Recovering free space of indoor scenes from a single image.
+\newblock In {\em CVPR}, 2012.
+
+\bibitem{gcontext-hoiem}
+D.~Hoiem, A.~Efros, and M.~Hebert.
+\newblock Geometric context from a single image.
+\newblock In {\em ICCV}, 2005.
+
+\bibitem{hoiem-ROB}
+D.~Hoiem, A.~Efros, and M.~Hebert.
+\newblock Recovering occlusion boundaries from an image.
+\newblock {\em IJCV}, 2011.
+
+\bibitem{isola14crisp}
+P.~Isola, D.~Zoran, D.~Krishnan, and T.~Adelson.
+\newblock Crisp boundary detection using pointwise mutual information.
+\newblock In {\em ECCV}, 2014.
+
+\bibitem{depthorder}
+Z.~Jia, A.~Gallagher, and T.~Chen.
+\newblock Learning boundaries with color and depth.
+\newblock In {\em ICIP}, 2013.
+
+\bibitem{kanade1981recovery}
+T.~Kanade.
+\newblock Recovery of the three-dimensional shape of an object from a single
+  view.
+\newblock {\em AI}, 1981.
+
+\bibitem{Koenderink1984}
+J.~Koenderink.
+\newblock Perception.
+\newblock In {\em What does the occluding contour tell us about solid shape},
+  1984.
+
+\bibitem{edgeDetectSurvey-Koschan}
+A.~Koschan and M.~Abidi.
+\newblock Detection and classification of edges in color images: A review of
+  vector-valued techniques.
+\newblock {\em Signal Processing Magazine, Special Issue on Color Image
+  Processing}, 2005.
+
+\bibitem{lee2010}
+D.~Lee, A.~Gupta, M.~Hebert, and T.~Kanade.
+\newblock Estimating spatial layout of rooms using volumetric reasoning about
+  objects and surfaces.
+\newblock In {\em NIPS}, 2010.
+
+\bibitem{lineCurvedObjects}
+J.~Malik.
+\newblock Interpreting line drawings of curved objects.
+\newblock {\em IJCV}, 1987.
+
+\bibitem{malik1989recovering}
+J.~Malik and D.~Maydan.
+\newblock Recovering three-dimensional shape from a single image of curved
+  objects.
+\newblock {\em PAMI}, 1989.
+
+\bibitem{martin2004}
+D.~Martin, C.~Fowlkes, and J.~Malik.
+\newblock Learning to detect natural image boundaries using local brightness,
+  color, and texture cues.
+\newblock {\em PAMI}, 2004.
+
+\bibitem{newcombe2011kinectfusion}
+R.~Newcombe, A.~Davison, S.~Izadi, P.~Kohli, O.~Hilliges, J.~Shotton,
+  D.~Molyneaux, S.~Hodges, D.~Kim, and A.~Fitzgibbon.
+\newblock Kinectfusion: Real-time dense surface mapping and tracking.
+\newblock In {\em ISMAR}, 2011.
+
+\bibitem{Lifting3DManhattan}
+S.~Ramalingam and M.~Brand.
+\newblock Lifting 3d manhattan lines from a single image.
+\newblock In {\em ICCV}, 2013.
+
+\bibitem{schwing2012b}
+A.~G. Schwing and R.~Urtasun.
+\newblock Efficient exact inference for {3D} indoor scene understanding.
+\newblock In {\em ECCV}, 2012.
+
+\bibitem{qishan2014Occluding}
+Q.~Shan, B.~Curless, Y.~Furukawa, C.~Hernandez, and S.~Seitz.
+\newblock Occluding contours for multi-view stereo.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition},
+  jun 2014.
+
+\bibitem{Silberman:ECCV12}
+N.~Silberman, D.~Hoiem, P.~Kohli, and R.~Fergus.
+\newblock Indoor segmentation and support inference from rgbd images.
+\newblock In {\em ECCV}, 2012.
+
+\bibitem{Snavely2006}
+N.~Snavely, S.~Seitz, and R.~Szeliski.
+\newblock Photo tourism: Exploring photo collections in 3d.
+\newblock {\em SIGGRAPH}, 2006.
+
+\bibitem{mild-sugihara}
+K.~Sugihara.
+\newblock {\em Machine Interpretation of Line Drawings}.
+\newblock MIT Press, 1986.
+
+\end{thebibliography}

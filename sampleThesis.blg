@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sampleThesis.aux
+The style file: latex8.bst
+Database file #1: egbib.bib
+Warning--I didn't find a database entry for "3dFromSingleView"
+Warning--I didn't find a database entry for "Authors06"
+You've used 25 entries,
+            2118 wiz_defined-function locations,
+            619 strings with 6927 characters,
+and the built_in function-call counts, 7136 in all, are:
+= -- 615
+> -- 430
+< -- 0
++ -- 169
+- -- 144
+* -- 421
+:= -- 1269
+add.period$ -- 75
+call.type$ -- 25
+change.case$ -- 147
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 306
+empty$ -- 583
+format.name$ -- 144
+if$ -- 1459
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 25
+newline$ -- 128
+num.names$ -- 50
+pop$ -- 205
+preamble$ -- 1
+purify$ -- 122
+quote$ -- 0
+skip$ -- 176
+stack$ -- 0
+substring$ -- 125
+swap$ -- 38
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 98
+warning$ -- 0
+while$ -- 50
+width$ -- 27
+write$ -- 254
+(There were 2 warnings)

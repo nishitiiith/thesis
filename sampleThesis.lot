@@ -1,0 +1,9 @@
+\addvspace {1em}
+\addvspace {1em}
+\addvspace {1em}
+\contentsline {table}{\numberline {3.1}{\ignorespaces \it Elements of the feature vector used in pixel-wise edge classifier. Here, the indices $i$, $j$ and $k$ vary from 1 to 4.}}{8}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces \it Precision, Recall and F-measure for each edge type on our and NYU datasets. $1^{st}$ and $2^{nd}$ rows of each set gives the results of our approach and comparison with \nobreakspace {}\cite {gupta13Perceptual}. The $3^{rd}$ row in each set shows the results of our approach on NYU dataset.}}{11}{table.3.2}
+\contentsline {table}{\numberline {3.3}{\ignorespaces \it Confusion matrix across the four classes. The numbers given are the average number of edge pixels per image.}}{11}{table.3.3}
+\contentsline {table}{\numberline {3.4}{\ignorespaces \it Precision, recall and F-measure for each edge type without and with pairwise potentials.}}{11}{table.3.4}
+\addvspace {1em}
+\addvspace {1em}
